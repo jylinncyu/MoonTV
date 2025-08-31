@@ -86,8 +86,8 @@
       "name": "小猫咪资源"
     },
     "sony": {
-      "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-      "name": "臥龍"
+      "api": "https://api.apibdzy.com/api.php/provide/vod",
+      "name": "ˇ百度資源"
     }
   }
 }
