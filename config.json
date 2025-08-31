@@ -86,7 +86,7 @@
       "name": "小猫咪资源"
     },
     "sony": {
-      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "api": "https://suoniapi.com/api.php/provide/vod",
       "name": "索尼"
     }
   }
